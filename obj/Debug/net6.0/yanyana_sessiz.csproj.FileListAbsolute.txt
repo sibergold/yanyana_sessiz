@@ -1,0 +1,15 @@
+C:\Users\OSMAN\yanyana_sessiz\bin\Debug\net6.0\yanyana_sessiz.exe
+C:\Users\OSMAN\yanyana_sessiz\bin\Debug\net6.0\yanyana_sessiz.deps.json
+C:\Users\OSMAN\yanyana_sessiz\bin\Debug\net6.0\yanyana_sessiz.runtimeconfig.json
+C:\Users\OSMAN\yanyana_sessiz\bin\Debug\net6.0\yanyana_sessiz.dll
+C:\Users\OSMAN\yanyana_sessiz\bin\Debug\net6.0\yanyana_sessiz.pdb
+C:\Users\OSMAN\yanyana_sessiz\obj\Debug\net6.0\yanyana_sessiz.csproj.AssemblyReference.cache
+C:\Users\OSMAN\yanyana_sessiz\obj\Debug\net6.0\yanyana_sessiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSMAN\yanyana_sessiz\obj\Debug\net6.0\yanyana_sessiz.AssemblyInfoInputs.cache
+C:\Users\OSMAN\yanyana_sessiz\obj\Debug\net6.0\yanyana_sessiz.AssemblyInfo.cs
+C:\Users\OSMAN\yanyana_sessiz\obj\Debug\net6.0\yanyana_sessiz.csproj.CoreCompileInputs.cache
+C:\Users\OSMAN\yanyana_sessiz\obj\Debug\net6.0\yanyana_sessiz.dll
+C:\Users\OSMAN\yanyana_sessiz\obj\Debug\net6.0\refint\yanyana_sessiz.dll
+C:\Users\OSMAN\yanyana_sessiz\obj\Debug\net6.0\yanyana_sessiz.pdb
+C:\Users\OSMAN\yanyana_sessiz\obj\Debug\net6.0\yanyana_sessiz.genruntimeconfig.cache
+C:\Users\OSMAN\yanyana_sessiz\obj\Debug\net6.0\ref\yanyana_sessiz.dll
